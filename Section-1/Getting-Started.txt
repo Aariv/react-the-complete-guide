@@ -1,0 +1,11 @@
+1. Welcome to the Course
+2. What is React?
+3. Why react is used instead of React?
+    - Javascript is imperitive approach
+    - Javascript, We need to write everything what & how should be done
+    - Javascript, We can't create any Custom HTML element 
+    - Javascropt, Rendering something on the screen happens whenever there is a change on the other element
+    - React JS is a client side library
+    - React JS is all about building reactive user interfaces
+    - Declarative, Component focused approach.
+4. 
